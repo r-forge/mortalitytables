@@ -1,0 +1,10 @@
+Package: MortalityTables
+Type: Package
+Title: Repository of mortality tables and convenience functions for actuarial work.
+Version: 0.1
+Date: 2013-01-245
+Author: Vitor Chagas
+Maintainer: vitorchagas@sapo.pt
+Description: The MortalityTables package provides various life tables
+             which are typically used for actuarial work (life contingencies).
+License: GPL (>= 2)
